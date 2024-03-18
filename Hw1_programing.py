@@ -72,8 +72,8 @@ def main(input_file, output_file, has_ofile):
         if has_ofile:
             ofile.write(str(myStack) + '\n')
 
-        # take away
-        print(str(myStack) + '\n')
+        # testing output
+        # print(str(myStack) + '\n')
 
 
 if __name__ == '__main__':

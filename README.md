@@ -11,6 +11,7 @@ This programming assignment asks you to read in a series of commands e.x. (PUSH 
 ## Input/Output Specification
 ### Input Format
 Inputs are a series of commands separated by newlines. The following is an example:
+
 ![image](https://github.com/R12942159/NTU_DataStructure/assets/145434739/d81b84f5-2166-441a-b048-f9aed3ad6d4b)
 ### Output Format
 You should print out your stack of each execution process. Below is an example of executing the above input using stack.

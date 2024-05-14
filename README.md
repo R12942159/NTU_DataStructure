@@ -4,7 +4,7 @@ The median is the middle value in an ordered integer list. If the size of the li
 • For example, for array = [2,3,4], the median is 3.
 • For example, for array = [2,3], the median is (2 + 3) / 2 = 2.5
 In this homework, you are expected to implement both MinHeap and MaxHeap classes, and utilize them to further implement a FindMedian class.
-### TODO
+## TODO
 We provide the templates for MinHeap, MaxHeap, and FindMedian in Median.py. Your task is to complete the sections marked as TODO.
 1. MinHeap
 • insert(self, item): input: a value. Insert a new item with the given value into the MinHeap. You don’t need to return or print anything in this function.

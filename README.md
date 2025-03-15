@@ -1,9 +1,16 @@
-# Data Structure Programing Assignment
+# Data Structure
 
-Hw1: Stack
+## Course Information
+- **Course**: Data Structure
+- **Instructor**: Pei-Yuan Wu
+- **Department**: Department of Electrical Engineering, NTU
+- **Term**: Spring 2024
 
-Hw2: Monotonic Routing
+## Contents
+### Hw1: Stack
 
-Hw3: Bibary Search Tree
+### Hw2: Monotonic Routing
 
-Hw4: Min-Heap, Max-Heap, Midean
+### Hw3: Bibary Search Tree
+
+### Hw4: Min-Heap, Max-Heap, Midean
